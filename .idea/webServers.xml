@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f860e284-bf4a-4aaa-bc48-889bf2762c69" name="rebond">
+        <fileTransfer accessType="SFTP" host="34.140.70.67" port="22" sshConfigId="df856c28-1471-42bb-b78c-752d3f71f14e" sshConfig="hamdi@34.140.70.67:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="cb334774-22e7-450c-b72f-5d3f82a46749" name="gcp-docker">
+        <fileTransfer accessType="SFTP" sshConfigId="9fa58aee-3e42-4260-810c-4456ffcff489" sshConfig="gcp-docker">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="34.140.70.67" id="df856c28-1471-42bb-b78c-752d3f71f14e" port="22" nameFormat="DESCRIPTIVE" username="hamdi" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" id="9fa58aee-3e42-4260-810c-4456ffcff489" customName="gcp-docker" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="gcp-docker" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
